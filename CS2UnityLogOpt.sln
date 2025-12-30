@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.1.11312.151
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS2UnityLogOpt", "CS2UnityLogOpt.csproj", "{564E3FD6-A381-8371-281B-6DCE8BEC6FBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{564E3FD6-A381-8371-281B-6DCE8BEC6FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564E3FD6-A381-8371-281B-6DCE8BEC6FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564E3FD6-A381-8371-281B-6DCE8BEC6FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564E3FD6-A381-8371-281B-6DCE8BEC6FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0449551-75DA-444A-82F1-2E8BBEBF22D8}
+	EndGlobalSection
+EndGlobal
